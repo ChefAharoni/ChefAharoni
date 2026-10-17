@@ -17,6 +17,17 @@
 | `05` | **[StudyMesh](https://studymesh.app)**                            | Builds study groups from schedules, preferences and strengths.                     |
 | `06` | **[EcoCoin](https://github.com/ChefAharoni/EcoCoin)**             | Smart contracts that turn recycled bottles into on-chain rewards.                  |
 
+### `> cat wins.txt`
+
+| place    | competition                                                                                          | when |
+| -------- | ---------------------------------------------------------------------------------------------------- | ---- |
+| `1st`    | **DistrictCon Badge Challenge**, Washington D.C. (solo)                                              | 2026 |
+| `3rd`    | **[CSAW Embedded Security Challenge](https://csaw.io/competition/embedded-security-challenge)**, NYU | 2025 |
+| `winner` | **[Cloudflare Hackathon @ AI Summit NY](https://github.com/ChefAharoni/StepCharge)** (best app)      | 2023 |
+| `1st`    | **[BMCC STEM Innovation Challenge](https://github.com/ChefAharoni/CUNYCoin)** (team lead)            | 2023 |
+
+CTFs with **CUCyber** (Columbia): best finishes `#37/789` GlacierCTF 2024, `#39/287` KalmarCTF 2025, `#40/432` PwnSec 2025, `#59/885` EHAX 2026, `#75/931` LA CTF 2025. [Full list on CTFtime ↗](https://ctftime.org/team/62539) · Organizer, HackCUNY 2024.
+
 ### `> cat toolkit.txt`
 
 `C` `Java` `Python` `Swift` `Solidity` `React` `Node.js` `Cloudflare` `Linux` `Cryptography`
