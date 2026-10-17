@@ -21,7 +21,7 @@
 
 | place    | competition                                                                                          | when |
 | -------- | ---------------------------------------------------------------------------------------------------- | ---- |
-| `1st`    | **DistrictCon Badge Challenge**, Washington D.C. (solo)                                              | 2026 |
+| `1st`    | **[DistrictCon Badge Challenge](https://www.linkedin.com/posts/amit-aharoni_districtcon-cybersecurity-badgechallenge-ugcPost-7421432421948162049-O3bh/)**, Washington D.C. (solo) | 2026 |
 | `3rd`    | **[CSAW Embedded Security Challenge](https://csaw.io/competition/embedded-security-challenge)**, NYU | 2025 |
 | `winner` | **[Cloudflare Hackathon @ AI Summit NY](https://github.com/ChefAharoni/StepCharge)** (best app)      | 2023 |
 | `1st`    | **[BMCC STEM Innovation Challenge](https://github.com/ChefAharoni/CUNYCoin)** (team lead)            | 2023 |
