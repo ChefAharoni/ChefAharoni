@@ -8,18 +8,18 @@
 
 ### `> cat featured.txt`
 
-| | project | what it does |
-|---|---|---|
-| `01` | **[Algorithm Trainer](https://algorithm-trainer.com)** | Master data structures and algorithms through guided exercises and visualizations. |
-| `02` | **[CryptoLearner](https://chefaharoni.github.io/CryptoLearner/)** | Step-by-step visualizers for AES-128, SHA-256 and other cryptographic algorithms. |
-| `03` | **[Haaretz Archive](https://haaretzarchive.com)** | Searchable archive of historical Haaretz weekend magazines. |
-| `04` | **[MeetSync](https://meet-sync.app)** | Share a link, mark availability, find the overlap. No accounts. |
-| `05` | **[StudyMesh](https://studymesh.app)** | Builds study groups from schedules, preferences and strengths. |
-| `06` | **[EcoCoin](https://github.com/ChefAharoni/EcoCoin)** | Smart contracts that turn recycled bottles into on-chain rewards. |
+|      | project                                                           | what it does                                                                       |
+| ---- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| `01` | **[Algorithm Trainer](https://algorithm-trainer.com)**            | Master data structures and algorithms through guided exercises and visualizations. |
+| `02` | **[CryptoLearner](https://chefaharoni.github.io/CryptoLearner/)** | Step-by-step visualizers for AES-128, SHA-256 and other cryptographic algorithms.  |
+| `03` | **[Haaretz Archive](https://haaretzarchive.com)**                 | Searchable archive of historical Haaretz weekend magazines.                        |
+| `04` | **[MeetSync](https://meet-sync.app)**                             | Share a link, mark availability, find the overlap. No accounts.                    |
+| `05` | **[StudyMesh](https://studymesh.app)**                            | Builds study groups from schedules, preferences and strengths.                     |
+| `06` | **[EcoCoin](https://github.com/ChefAharoni/EcoCoin)**             | Smart contracts that turn recycled bottles into on-chain rewards.                  |
 
 ### `> cat toolkit.txt`
 
-`TypeScript` `Python` `Java` `C / C++` `Swift` `Solidity` `React` `Node.js` `Cloudflare` `Linux` `Cryptography`
+`C` `Java` `Python` `Swift` `Solidity` `React` `Node.js` `Cloudflare` `Linux` `Cryptography`
 
 <div align="center">
 <sub><code>// trust nothing. verify everything. ship anyway.</code></sub>
