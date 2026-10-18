@@ -12,9 +12,9 @@
 | ---- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | `01` | **[StudyMesh](https://studymesh.app)**                                 | Builds study groups from schedules, preferences and strengths.                     |
 | `02` | **[Algorithm Trainer](https://algorithm-trainer.com)**                 | Master data structures and algorithms through guided exercises and visualizations. |
-| `03` | **[Miko](https://github.com/ChefAharoni/CPP-FinalProject-EmbeddedML)** | Compiles trained neural nets into tiny C++ for a Raspberry Pi Pico (team project). |
-| `04` | **[MeetSync](https://meet-sync.app)**                                  | Share a link, mark availability, find the overlap. No accounts.                    |
-| `05` | **[EcoCoin](https://github.com/ChefAharoni/EcoCoin)**                  | Smart contracts that turn recycled bottles into on-chain rewards.                  |
+| `03` | **[EcoCoin](https://github.com/ChefAharoni/EcoCoin)**                  | Smart contracts that turn recycled bottles into on-chain rewards.                  |
+| `04` | **[Miko](https://github.com/ChefAharoni/CPP-FinalProject-EmbeddedML)** | Compiles trained neural nets into tiny C++ for a Raspberry Pi Pico (team project). |
+| `05` | **[MeetSync](https://meet-sync.app)**                                  | Share a link, mark availability, find the overlap. No accounts.                    |
 | `06` | **[Haaretz Archive](https://haaretzarchive.com)**                      | Searchable archive of historical Haaretz weekend magazines.                        |
 
 ### `> cat wins.txt`
