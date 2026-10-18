@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="250" viewBox="0 0 860 250" role="img" aria-label="guest@aharoni.dev:~$ whoami → amit_aharoni. ls ~/projects → algorithm-trainer cryptolearner haaretz-archive meetsync studymesh">
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="250" viewBox="0 0 860 250" role="img" aria-label="guest@aharoni.dev:~$ whoami → amit_aharoni. ls ~/projects → studymesh algorithm-trainer miko meetsync ecocoin haaretz-archive">
   <style>
     text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 16px; }
     .p { fill: #00ff9c; }
@@ -28,7 +28,7 @@
   <text x="28" y="146" opacity="0"><tspan class="p">guest@aharoni.dev:~$</tspan>
     <set attributeName="opacity" to="1" begin="2.1s" fill="freeze"/></text>
   <g clip-path="url(#c2)"><text x="230" y="146" class="c">ls ~/projects</text></g>
-  <text x="28" y="174" class="o" opacity="0" xml:space="preserve">algorithm-trainer  cryptolearner  haaretz-archive  meetsync  studymesh
+  <text x="28" y="174" class="o" opacity="0" xml:space="preserve">studymesh  algorithm-trainer  miko  meetsync  ecocoin  haaretz-archive
     <set attributeName="opacity" to="1" begin="3.8s" fill="freeze"/></text>
 
   <!-- prompt + cursor -->

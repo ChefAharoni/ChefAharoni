@@ -8,14 +8,14 @@
 
 ### `> cat featured.txt`
 
-|      | project                                                           | what it does                                                                       |
-| ---- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| `01` | **[Algorithm Trainer](https://algorithm-trainer.com)**            | Master data structures and algorithms through guided exercises and visualizations. |
-| `02` | **[CryptoLearner](https://chefaharoni.github.io/CryptoLearner/)** | Step-by-step visualizers for AES-128, SHA-256 and other cryptographic algorithms.  |
-| `03` | **[Haaretz Archive](https://haaretzarchive.com)**                 | Searchable archive of historical Haaretz weekend magazines.                        |
-| `04` | **[MeetSync](https://meet-sync.app)**                             | Share a link, mark availability, find the overlap. No accounts.                    |
-| `05` | **[StudyMesh](https://studymesh.app)**                            | Builds study groups from schedules, preferences and strengths.                     |
-| `06` | **[EcoCoin](https://github.com/ChefAharoni/EcoCoin)**             | Smart contracts that turn recycled bottles into on-chain rewards.                  |
+|      | project                                                                | what it does                                                                       |
+| ---- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| `01` | **[StudyMesh](https://studymesh.app)**                                 | Builds study groups from schedules, preferences and strengths.                     |
+| `02` | **[Algorithm Trainer](https://algorithm-trainer.com)**                 | Master data structures and algorithms through guided exercises and visualizations. |
+| `03` | **[Miko](https://github.com/ChefAharoni/CPP-FinalProject-EmbeddedML)** | Compiles trained neural nets into tiny C++ for a Raspberry Pi Pico (team project). |
+| `04` | **[MeetSync](https://meet-sync.app)**                                  | Share a link, mark availability, find the overlap. No accounts.                    |
+| `05` | **[EcoCoin](https://github.com/ChefAharoni/EcoCoin)**                  | Smart contracts that turn recycled bottles into on-chain rewards.                  |
+| `06` | **[Haaretz Archive](https://haaretzarchive.com)**                      | Searchable archive of historical Haaretz weekend magazines.                        |
 
 ### `> cat wins.txt`
 
@@ -30,7 +30,7 @@ CTFs with **CUCyber** (Columbia): best finishes `#37/789` GlacierCTF 2024, `#39/
 
 ### `> cat toolkit.txt`
 
-`C` `Java` `Python` `Swift` `Solidity` `React` `Node.js` `Cloudflare` `Linux` `Cryptography`
+`Python` `Java` `C / C++` `Bash` `SQL` `Assembly` `Swift` `Solidity` `React` `Node.js` `Docker` `AWS` `Cloudflare` `Linux` `Git / GitHub Actions` `Wireshark` `Penetration Testing` `Reverse Engineering` `Cryptography` `CTFs`
 
 <div align="center">
 <sub><code>// trust nothing. verify everything. ship anyway.</code></sub>
